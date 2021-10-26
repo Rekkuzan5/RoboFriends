@@ -1,7 +1,7 @@
 
 # RoboFriends
 
-A simple react application that displays a searchable list of robot friends.
+A simple React application that displays a searchable list of robot friends.
 
 
 ## FAQ
